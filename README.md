@@ -1,2 +1,2 @@
 # snippets
-Code snippets im verschiedenen Programmierungssprachen
+Code snippets im verschiedenen Programmiersprachen
